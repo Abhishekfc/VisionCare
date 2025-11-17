@@ -18,7 +18,7 @@ const About = () => {
             <span className="text-sm font-medium text-primary">About Us</span>
           </div>
           
-          <h1 className="text-5xl font-bold mb-4">VisionCare Lens Shop</h1>
+          <h1 className="text-5xl font-bold mb-4">Netra Kiran Optics</h1>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
             Your trusted partner in eye care, committed to providing exceptional lens solutions and personalized service since 2010.
           </p>
@@ -28,7 +28,7 @@ const About = () => {
           <Card className="p-8 shadow-card">
             <h2 className="text-3xl font-bold mb-4">Our Mission</h2>
             <p className="text-muted-foreground leading-relaxed">
-              At VisionCare, we believe everyone deserves clear, comfortable vision. We combine cutting-edge technology with personalized care to deliver lens solutions that enhance your quality of life. Our expert team is dedicated to understanding your unique needs and providing guidance every step of the way.
+              At Netra Kiran, we believe everyone deserves clear, comfortable vision. We combine cutting-edge technology with personalized care to deliver lens solutions that enhance your quality of life. Our expert team is dedicated to understanding your unique needs and providing guidance every step of the way.
             </p>
           </Card>
 
@@ -52,9 +52,9 @@ const About = () => {
                 <div>
                   <h3 className="font-semibold mb-1">Location</h3>
                   <p className="text-muted-foreground">
-                    123 Vision Street<br />
-                    Downtown, NY 10001<br />
-                    United States
+                    LGF-3 Retailx Shoping Complex<br />
+                    Abhay Khand 3, Pocket 4<br />
+                    Indirapuram, Ghaziabad, Uttar Pradesh 201010
                   </p>
                 </div>
               </div>
@@ -66,8 +66,8 @@ const About = () => {
                 <div>
                   <h3 className="font-semibold mb-1">Phone</h3>
                   <p className="text-muted-foreground">
-                    +1 (555) 123-4567<br />
-                    Toll-free: 1-800-VISION-1
+                    +91 7011295507 <br />
+                    {/* Toll-free: 1-800-VISION-1 */}
                   </p>
                 </div>
               </div>
@@ -79,8 +79,8 @@ const About = () => {
                 <div>
                   <h3 className="font-semibold mb-1">Email</h3>
                   <p className="text-muted-foreground">
-                    info@visioncare.com<br />
-                    support@visioncare.com
+                    netrakiran07@gmail.com<br />
+                    {/* support@visioncare.com */}
                   </p>
                 </div>
               </div>
@@ -92,9 +92,9 @@ const About = () => {
                 <div>
                   <h3 className="font-semibold mb-1">Working Hours</h3>
                   <p className="text-muted-foreground">
-                    Monday - Friday: 9:00 AM - 7:00 PM<br />
-                    Saturday: 9:00 AM - 6:00 PM<br />
-                    Sunday: Closed
+                    Monday - Sunday: 9:00 AM - 10:00 PM<br />
+                    {/* Saturday: 9:00 AM - 10:00 PM<br /> */}
+                    {/* Sunday: Closed */}
                   </p>
                 </div>
               </div>

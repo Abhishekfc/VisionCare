@@ -22,17 +22,17 @@ const ThankYou = () => {
           
           <div className="flex items-center justify-center gap-3 text-muted-foreground">
             <Phone className="h-5 w-5 text-primary" />
-            <span>+1 (555) 123-4567</span>
+            <span>+91 7011295507</span>
           </div>
           
           <div className="flex items-center justify-center gap-3 text-muted-foreground">
             <Mail className="h-5 w-5 text-primary" />
-            <span>info@visioncare.com</span>
+            <span>netrakiran07@gmail.com</span>
           </div>
 
           <div className="pt-4 border-t">
             <p className="text-sm text-muted-foreground">
-              <strong>Working Hours:</strong> Monday - Saturday, 9:00 AM - 6:00 PM
+              <strong>Working Hours:</strong> Monday - Sunday, 9:00 AM - 10:00 PM
             </p>
           </div>
         </div>

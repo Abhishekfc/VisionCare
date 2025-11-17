@@ -49,7 +49,7 @@ const Index = () => {
       <section className="py-20 px-4">
         <div className="container mx-auto max-w-6xl">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold mb-4">Why Choose VisionCare?</h2>
+            <h2 className="text-4xl font-bold mb-4">Why Choose Netra Kiran?</h2>
             <p className="text-muted-foreground text-lg">Excellence in every aspect of eye care</p>
           </div>
           
@@ -107,7 +107,7 @@ const Index = () => {
         <div className="container mx-auto max-w-6xl">
           <div className="grid md:grid-cols-3 gap-8 text-center md:text-left">
             <div>
-              <h3 className="font-bold text-lg mb-3">VisionCare Lens Shop</h3>
+              <h3 className="font-bold text-lg mb-3">Netra Kiran Optics</h3>
               <p className="text-sm text-muted-foreground">
                 Your trusted partner for premium eye care solutions.
               </p>
@@ -131,15 +131,15 @@ const Index = () => {
             <div>
               <h4 className="font-semibold mb-3">Contact</h4>
               <div className="space-y-2 text-sm text-muted-foreground">
-                <p>Phone: +1 (555) 123-4567</p>
-                <p>Email: info@visioncare.com</p>
-                <p>Hours: Mon-Sat 9AM-6PM</p>
+                <p>Phone: +91 7011295507</p>
+                <p>Email: netrakiran07@gmail.com</p>
+                <p>Hours: Mon-Sun 9AM-10PM</p>
               </div>
             </div>
           </div>
           
           <div className="mt-12 pt-8 border-t text-center text-sm text-muted-foreground">
-            <p>&copy; 2025 VisionCare Lens Shop. All rights reserved.</p>
+            <p>&copy; 2025 Netra Kiran Optics. All rights reserved.</p>
           </div>
         </div>
       </footer>
