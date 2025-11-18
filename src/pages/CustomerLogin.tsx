@@ -101,7 +101,8 @@ const CustomerLogin = () => {
       if (data.user) {
         const { error: roleError } = await supabase
           .from('user_roles')
-          .insert({ user_id: data.user.id, role: 'customer' });
+          // .insert({ user_id: data.user.id, role: 'customer' });
+          .insert({ user_id: data.user.id, role: 'customer', email: email });
         
         if (roleError) {
           console.error('Error assigning customer role:', roleError);
